@@ -10191,3 +10191,11 @@ msgstr ""
 #: weblate/wladmin/views.py:183
 msgid "Could not dismiss the configuration error!"
 msgstr ""
+
+#: weblate/wladmin/views.py:184
+msgid "This is a test string, for testing purpose, OK?"
+msgstr ""
+
+#: weblate/wladmin/views.py:185
+msgid "Another testing string."
+msgstr ""
