@@ -10203,3 +10203,7 @@ msgstr ""
 #: weblate/wladmin/views.py:186
 msgid "More strings! OK?"
 msgstr ""
+
+#: weblate/wladmin/views.py:187
+msgid "I'm just another string, no surprise"
+msgstr ""
