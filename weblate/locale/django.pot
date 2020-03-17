@@ -10199,3 +10199,7 @@ msgstr ""
 #: weblate/wladmin/views.py:185
 msgid "Another testing string."
 msgstr ""
+
+#: weblate/wladmin/views.py:186
+msgid "More strings! OK?"
+msgstr ""
