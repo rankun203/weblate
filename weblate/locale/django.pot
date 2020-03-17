@@ -10209,5 +10209,5 @@ msgid "I'm just another string, no surprise"
 msgstr ""
 
 #: weblate/wladmin/views.py:188
-msgid "I'm a new string"
+msgid "I'm an old string"
 msgstr ""
